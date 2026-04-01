@@ -3,62 +3,62 @@
     {
       "nome": "João",
       "ano_nascimento": 1999,
-      "altura": [1.60],
-      "massa.": [85]
+      "altura": 1.60,
+      "massa.": 85
     },
     {
       "nome": "Maria",
       "ano_nascimento": 2003,
-      "altura": [1.20],
-      "massa.": [50]
+      "altura": 1.20,
+      "massa.": 50
     },
     {
       "nome": "Pedro",
       "ano_nascimento": 1997,
-      "altura": [1.75],
-      "massa.": [45]
+      "altura": 1.75,
+      "massa.": 45
     },
     {
       "nome": "Ana",
       "ano_nascimento": 1996,
-      "altura": [2.20],
-      "massa.": [100]
+      "altura": 2.20,
+      "massa.": 100
     },
     {
       "nome": "Lucas",
       "ano_nascimento": 1995,
-      "altura": [2.10],
-      "massa.": [120]
+      "altura": 2.10,
+      "massa.": 120
     },
     {
       "nome": "Carla",
       "ano_nascimento": 1994,
-      "altura": [1.60],
-      "massa.": [60]
+      "altura": 1.60,
+      "massa.":60
     },
     {
       "nome": "Rafael",
       "ano_nascimento": 2001,
-      "altura": [1.80],
-      "massa.": [80]
+      "altura": 1.80,
+      "massa.": 80
     },
     {
       "nome": "Gabriel",
       "ano_nascimento": 2002,
-      "altura": [1.75],
-      "massa.": [56]
+      "altura": 1.75,
+      "massa.": 56
     },
     {
       "nome": "Beatriz",
      "ano_nascimento": 1992,
-      "altura": [1.90],
-      "massa.": [95]
+      "altura": 1.90,
+      "massa.": 95
     },
     {
       "nome": "Felipe",
       "ano_nascimento": 2004,
-      "altura": [2.90],
-      "massa.": [150]
+      "altura": 2.90,
+      "massa.": 150
     }
   ]
 }
